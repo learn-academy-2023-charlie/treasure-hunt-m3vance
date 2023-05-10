@@ -6,4 +6,23 @@ h1 {
   height: 200px;
   width: 200px;
   border: 1px solid black;
+  font-size: 175px;
+  text-align: center;
+  background-color: gray;
+  box-shadow: 15px 15px;
+  opacity: 50%;
+}
+
+body {
+  background-image: url("https://w.wallha.com/ws/9/VA8qMJ7l.jpg");
+  background-repeat: no-repeat;
+}
+
+#grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 620px;
+  margin: 0 auto;
+  margin-left: 500px;
+  
 }
